@@ -1,0 +1,3 @@
+# Komunikator
+
+Instrukcja uruchomienia: ...
